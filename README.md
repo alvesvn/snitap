@@ -5,13 +5,23 @@
 
 </p>
 
-## Features
+## Funcionalidades
 
 - Estrutura básica de uma página web.
 - Uso de tags semânticas do HTML5.
 - Aplicação de estilos CSS para formatação do layout.
 - Inclusão de fontes e cores personalizadas.
 - Responsividade com Media Queries: Implementação de media queries para adaptar o layout a diferentes tamanhos de tela.
+
+## Como Executar o Projeto Localmente
+Clone o repositório:
+
+```bash
+Copiar código
+git clone https://github.com/alvesvn/snitap.git
+```
+Abra o arquivo index.html em seu navegador.
+
 
 ## Visit the web pages
   ### 1. Snitap - Skate Shop
