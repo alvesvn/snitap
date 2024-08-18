@@ -13,12 +13,6 @@
 - Inclusão de fontes e cores personalizadas.
 - Responsividade com Media Queries: Implementação de media queries para adaptar o layout a diferentes tamanhos de tela.
 
-## Functionalities
-
-- Layouts Modernos: Exemplos de layouts modernos e inovadores para inspiração e prática.
-- Apoio a Mobile First: Estratégias e exemplos focados na abordagem "mobile first" para garantir que seus projetos sejam otimizados para dispositivos móveis desde o início.
-- Layouts Adaptativos: Exemplos de layouts que se ajustam dinamicamente a diferentes tamanhos de tela e resoluções.
-
 ## Visit the web pages
   ### 1. Snitap - Skate Shop
   <a href="https://snitap-theta.vercel.app/"><img src="https://github.com/user-attachments/assets/8343fdc1-be43-4c6d-9ab9-068c894ca9bc" alt="Pagina de web responsivo"/></a>
