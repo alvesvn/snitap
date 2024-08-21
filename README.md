@@ -11,7 +11,6 @@
 - Uso de tags semânticas do HTML5.
 - Aplicação de estilos CSS para formatação do layout.
 - Inclusão de fontes e cores personalizadas.
-- Responsividade com Media Queries: Implementação de media queries para adaptar o layout a diferentes tamanhos de tela.
 
 ## Como Executar o Projeto Localmente
 Clone o repositório:
